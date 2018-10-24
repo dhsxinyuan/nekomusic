@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title></title> <!-- ur title here -->
+</head>
+<body>
+    <h1>nekomusic</h1> <!-- ur chatbot title here too -->
+    <p>ask me anything about music! </p> <!-- ur chatbot description here -->
+    <pre>
+    help
+I am neko! I can recommend music for you based on your music tastes.
+
+I like korean pop music.
+I think that you will like songs by bts, blackpink, nct, wannaone, twice, etc
+
+What type of music do you like?
+i usually listen to english pop music by taylor swift, mandarin pop by tfboys
+
+it was nice chatting with you
+my pleasure, have a nice day.
+</pre> <!-- ur chatbot code here -->
+   <script type='text/javascript' id='susi-bot-script' data-userid='ec4c5dfec7d6b73f51e840e7405a0162' data-group='Music and Audio' data-language='en' data-skill='nekomusic' src='https://skills.susi.ai/susi-chatbot.js'></script>
+    
+</body>
+</html>
